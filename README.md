@@ -9,6 +9,6 @@ then you shall obtain necessary packages to allow the server to run. Run the ser
 ```
 node server.js
 ```
-fire up your internet browser and head to ![localhost|http://localhost:4000]
+fire up your internet browser and head to [localhost port 4000](http://localhost:4000)
 
 experiment with various query there. All the best!
