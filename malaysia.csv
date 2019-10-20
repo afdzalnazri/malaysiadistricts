@@ -1,0 +1,815 @@
+ID,Negeri,Kawasan
+1,Johor,Segamat
+2,Johor,Sekijang
+3,Johor,Labis
+4,Johor,Pagoh
+5,Johor,Ledang
+6,Johor,Bakri
+7,Johor,Muar
+8,Johor,Parit Sulong
+9,Johor,Ayer Hitam
+10,Johor,Sri Gading
+11,Johor,Batu Pahat
+12,Johor,Simpang Renggam
+13,Johor,Kluang
+14,Johor,Sembrong
+15,Johor,Mersing
+16,Johor,Tenggara
+17,Johor,Kota Tinggi
+18,Johor,Pengerang
+19,Johor,Tebrau
+20,Johor,Pasir Gudang
+21,Johor,Johor Bahru
+22,Johor,Pulai
+23,Johor,Gelang Patah
+24,Johor,Kulai
+25,Johor,Pontian
+26,Johor,Tanjong Piai
+27,Johor,Buloh Kasap
+28,Johor,Pemanis
+29,Johor,Tenang
+30,Johor,N.07�Bukit Serampang
+31,Johor,Gambir
+32,Johor,Bentayan
+33,Johor,Maharani
+34,Johor,Semerah
+35,Johor,Yong Peng
+36,Johor,Parit Yaani
+37,Johor,Penggaram
+38,Johor,Machap
+39,Johor,Mengkibol
+40,Johor,Paloh
+41,Johor,Endau
+42,Johor,Panti
+43,Johor,Sedili
+44,Johor,Penawar
+45,Johor,Tiram
+46,Johor,Johor Jaya
+47,Johor,Tanjong Puteri
+48,Johor,N.46�Pengkalan Rinting
+49,Johor,Skudai
+50,Johor,Bukit Permai
+51,Johor,Benut
+52,Johor,Pekan Nenas
+53,Johor,Jementah
+54,Johor,Kemelah
+55,Johor,Bekok
+56,Johor,Jorak
+57,Johor,Tangkak
+58,Johor,Sungai Abong
+59,Johor,Sungai Balang
+60,Johor,Sri Medan
+61,Johor,Semarang
+62,Johor,Parit Raja
+63,Johor,Senggarang
+64,Johor,Layang-Layang
+65,Johor,Mahkota
+66,Johor,Kahang
+67,Johor,Tenggaroh
+68,Johor,Pasir Raja
+69,Johor,Johor Lama
+70,Johor,Tanjong Surat
+71,Johor,Puteri Wangsa
+72,Johor,Permas
+73,Johor,Stulang
+74,Johor,Kempas
+75,Johor,Nusa Jaya
+76,Johor,Bukit Batu
+77,Johor,Pulai Sebatang
+78,Johor,Kukup
+79,Johor,Serom
+80,Johor,Bukit Naning
+81,Johor,Rengit
+82,Johor,Senai
+83,Kedah,Langkawi
+84,Kedah,Jerlun
+85,Kedah,Kubang Pasu
+86,Kedah,Padang Terap
+87,Kedah,Pokok Sena
+88,Kedah,Alor Setar
+89,Kedah,Kuala Kedah
+90,Kedah,Pendang
+91,Kedah,Jerai
+92,Kedah,Sik
+93,Kedah,Merbok
+94,Kedah,Sungai Petani
+95,Kedah,Baling
+96,Kedah,Padang Serai
+97,Kedah,Bandar Baharu
+98,Kedah,Ayer Hangat
+99,Kedah,Kota Siputeh
+100,Kedah,Bukit Kayu Hitam
+101,Kedah,Kuala Nerang
+102,Kedah,Bukit Lada
+103,Kedah,Bakar Bata
+104,Kedah,Anak Bukit
+105,Kedah,Tokai
+106,Kedah,Sungai Limau
+107,Kedah,Belantek
+108,Kedah,Bukit Selambau
+109,Kedah,Pantai Merdeka
+110,Kedah,Bayu
+111,Kedah,Merbau Pulas
+112,Kedah,Kulim
+113,Kedah,Kuah
+114,Kedah,Ayer Hitam
+115,Kedah,Jitra
+116,Kedah,Pedu
+117,Kedah,Bukit Pinang
+118,Kedah,Kota Darul Aman
+119,Kedah,Kubang Rotan
+120,Kedah,Sungai Tiang
+121,Kedah,Guar Chempedak
+122,Kedah,Jeneri
+123,Kedah,Tanjong Dawai
+124,Kedah,Bakar Arang
+125,Kedah,Kupang
+126,Kedah,Lunas
+127,Kedah,Bandar Baharu
+128,Kedah,Derga
+129,Kedah,Alor Mengkudu
+130,Kedah,Pengkalan Kundor
+131,Kedah,Gurun
+132,Kedah,Sidam
+133,Kedah,Kuala Ketil
+134,Kelantan,Tumpat
+135,Kelantan,Pengkalan Chepa
+136,Kelantan,Kota Bharu
+137,Kelantan,Pasir Mas
+138,Kelantan,Rantau Panjang
+139,Kelantan,Kubang Kerian
+140,Kelantan,Bachok
+141,Kelantan,Ketereh
+142,Kelantan,Tanah Merah
+143,Kelantan,Pasir Puteh
+144,Kelantan,Machang
+145,Kelantan,Jeli
+146,Kelantan,Kuala Krai
+147,Kelantan,Gua Musang
+148,Kelantan,Pengkalan Kubor
+149,Kelantan,Kijang
+150,Kelantan,Tanjong Mas
+151,Kelantan,Tendong
+152,Kelantan,Meranti
+153,Kelantan,Salor
+154,Kelantan,Tawang
+155,Kelantan,Melor
+156,Kelantan,Bukit Panau
+157,Kelantan,Selising
+158,Kelantan,Pulai Chondong
+159,Kelantan,Bukit Bunga
+160,Kelantan,Mengkebang
+161,Kelantan,Nenggiri
+162,Kelantan,Pasir Pekan
+163,Kelantan,Panchor
+164,Kelantan,Bunut Payong
+165,Kelantan,Chetok
+166,Kelantan,Bukit Tuku
+167,Kelantan,Demit
+168,Kelantan,Jelawat
+169,Kelantan,Kok Lanas
+170,Kelantan,Kemahang
+171,Kelantan,Semerak
+172,Kelantan,Kemuning
+173,Kelantan,Kuala Balah
+174,Kelantan,Manek Urai
+175,Kelantan,Galas
+176,Kelantan,Kelaboran
+177,Kelantan,Chempaka
+178,Kelantan,Kota Lama
+179,Kelantan,Pengkalan Pasir
+180,Kelantan,Gual Periok
+181,Kelantan,Pasir Tumboh
+182,Kelantan,Perupok
+183,Kelantan,Kadok
+184,Kelantan,Gual Ipoh
+185,Kelantan,Limbongan
+186,Kelantan,Temangan
+187,Kelantan,Air Lanas
+188,Kelantan,Guchil
+189,Kelantan,Paloh
+190,Kelantan,Wakaf Bharu
+191,Kelantan,Gaal
+192,Kelantan,Dabong
+193,Kuala Lumpur,Kepong
+194,Kuala Lumpur,Batu
+195,Kuala Lumpur,Wangsa Maju
+196,Kuala Lumpur,Segambut
+197,Kuala Lumpur,Setiawangsa
+198,Kuala Lumpur,Titiwangsa
+199,Kuala Lumpur,Bukit Bintang
+200,Kuala Lumpur,Lembah Pantai
+201,Kuala Lumpur,Seputeh
+202,Kuala Lumpur,Cheras
+203,Kuala Lumpur,Bandar Tun Razak
+204,Melaka,Masjid Tanah
+205,Melaka,Alor Gajah
+206,Melaka,Tangga Batu
+207,Melaka,Bukit Katil
+208,Melaka,Kota Melaka
+209,Melaka,Jasin
+210,Melaka,Kuala Linggi
+211,Melaka,Rembia
+212,Melaka,Sungai Udang
+213,Melaka,Bachang
+214,Melaka,Kesidang
+215,Melaka,Bemban
+216,Melaka,Tanjung Bidara
+217,Melaka,Gadek
+218,Melaka,Pantai Kundor
+219,Melaka,Ayer Keroh
+220,Melaka,Kota Laksamana
+221,Melaka,Rim
+222,Melaka,Lendu
+223,Melaka,Durian Tunggal
+224,Melaka,Kelebang
+225,Melaka,Ayer Molek
+226,Melaka,Bandar Hilir
+227,Melaka,Merlimau
+228,Melaka,Ayer Limau
+229,Melaka,Machap
+230,Melaka,Paya Rumput
+231,Melaka,Bukit Baru
+232,Melaka,Duyong
+233,Melaka,Serkam
+234,Melaka,Taboh Naning
+235,Melaka,Asahan
+236,Melaka,Telok Mas
+237,Melaka,Sungai Rambai
+238,Negeri Sembilan,Jelebu
+239,Negeri Sembilan,Jempol
+240,Negeri Sembilan,Seremban
+241,Negeri Sembilan,Kuala Pilah
+242,Negeri Sembilan,Rasah
+243,Negeri Sembilan,Rembau
+244,Negeri Sembilan,Telok Kemang
+245,Negeri Sembilan,Tampin
+246,Negeri Sembilan,Chennah
+247,Negeri Sembilan,Serting
+248,Negeri Sembilan,Lenggeng
+249,Negeri Sembilan,Juasseh
+250,Negeri Sembilan,Labu
+251,Negeri Sembilan,Paroi
+252,Negeri Sembilan,Chuah
+253,Negeri Sembilan,Gemas
+254,Negeri Sembilan,Pertang
+255,Negeri Sembilan,Palong
+256,Negeri Sembilan,Nilai
+257,Negeri Sembilan,Seri Menanti
+258,Negeri Sembilan,Bukit Kepayang
+259,Negeri Sembilan,Chembong
+260,Negeri Sembilan,Lukut
+261,Negeri Sembilan,Gemencheh
+262,Negeri Sembilan,Sungai Lui
+263,Negeri Sembilan,Jeram Padang
+264,Negeri Sembilan,Lobak
+265,Negeri Sembilan,Senaling
+266,Negeri Sembilan,Rahang
+267,Negeri Sembilan,Rantau
+268,Negeri Sembilan,Bagan Pinang
+269,Negeri Sembilan,Repah
+270,Negeri Sembilan,Klawang
+271,Negeri Sembilan,Bahau
+272,Negeri Sembilan,Temiang
+273,Negeri Sembilan,Pilah
+274,Negeri Sembilan,Mambau
+275,Negeri Sembilan,Kota
+276,Negeri Sembilan,Linggi
+277,Negeri Sembilan,Ampangan
+278,Negeri Sembilan,Sikamat
+279,Negeri Sembilan,Johol
+280,Negeri Sembilan,Senawang
+281,Negeri Sembilan,Port Dickson
+282,Pahang,Cameron Highlands
+283,Pahang,Lipis
+284,Pahang,Raub
+285,Pahang,Jerantut
+286,Pahang,Indera Mahkota
+287,Pahang,Kuantan
+288,Pahang,Paya Besar
+289,Pahang,Pekan
+290,Pahang,Maran
+291,Pahang,Kuala Krau
+292,Pahang,Temerloh
+293,Pahang,Bentong
+294,Pahang,Bera
+295,Pahang,Rompin
+296,Pahang,Tanah Rata
+297,Pahang,Padang Tengku
+298,Pahang,Batu Talam
+299,Pahang,Tahan
+300,Pahang,Beserah
+301,Pahang,Teruntum
+302,Pahang,Sungai Lembing
+303,Pahang,Pulau Manis
+304,Pahang,Luit
+305,Pahang,Jenderak
+306,Pahang,Mentakab
+307,Pahang,Bilut
+308,Pahang,Guai
+309,Pahang,Bukit Ibam
+310,Pahang,Jelai
+311,Pahang,Cheka
+312,Pahang,Tras
+313,Pahang,Damak
+314,Pahang,Semambu
+315,Pahang,Tanjung Lumpur
+316,Pahang,Lepar
+317,Pahang,Peramu Jaya
+318,Pahang,Kuala Sentul
+319,Pahang,Kerdau
+320,Pahang,Lanchang
+321,Pahang,Ketari
+322,Pahang,Triang
+323,Pahang,Muadzam Shah
+324,Pahang,Pelangai
+325,Pahang,Benta
+326,Pahang,Dong
+327,Pahang,Pulau Tawar
+328,Pahang,Chini
+329,Pahang,Inderapura
+330,Pahang,Panching
+331,Pahang,Bebar
+332,Pahang,Chenor
+333,Pahang,Jengka
+334,Pahang,Kuala Semantan
+335,Pahang,Sabai
+336,Pahang,Kemayan
+337,Pahang,Tioman
+338,Perak,Gerik
+339,Perak,Lenggong
+340,Perak,Larut
+341,Perak,Parit Buntar
+342,Perak,Bagan Serai
+343,Perak,Bukit Gantang
+344,Perak,Taiping
+345,Perak,Padang Rengas
+346,Perak,Sungai Siput
+347,Perak,Tambun
+348,Perak,Ipoh Timur
+349,Perak,Ipoh Barat
+350,Perak,Batu Gajah
+351,Perak,Kuala Kangsar
+352,Perak,Pekan Beruas
+353,Perak,Parit
+354,Perak,Kampar
+355,Perak,Gopeng
+356,Perak,Tapah
+357,Perak,Pasir Salak
+358,Perak,Lumut
+359,Perak,Bagan Datoh
+360,Perak,Teluk Intan
+361,Perak,Tanjung Malim
+362,Perak,Pengkalan Hulu
+363,Perak,Kenering
+364,Perak,Selama
+365,Perak,Titi Serong
+366,Perak,Alor Pongsu
+367,Perak,Kuala Sepetang
+368,Perak,Kamunting
+369,Perak,Chenderoh
+370,Perak,Lintang
+371,Perak,Manjoi
+372,Perak,Canning
+373,Perak,Bercham
+374,Perak,Jelapang
+375,Perak,Bukit Chandan
+376,Perak,Pengkalan Baru
+377,Perak,Belanja
+378,Perak,Malim Nawar
+379,Perak,Sungai Rapat
+380,Perak,Chenderiang
+381,Perak,Sungai Manik
+382,Perak,Sitiawan
+383,Perak,Rungkup Kechil
+384,Perak,Pasir Bedamar
+385,Perak,Sungkai
+386,Perak,Temenggor
+387,Perak,Kota Tampan
+388,Perak,Kubu Gajah
+389,Perak,Kuala Kurau
+390,Perak,Gunung Semanggol
+391,Perak,Changkat Jering
+392,Perak,Pokok Assam
+393,Perak,Lubok Merbau
+394,Perak,Jalong
+395,Perak,Ulu Kinta
+396,Perak,Tebing Tinggi
+397,Perak,Kepayang
+398,Perak,Menglembu
+399,Perak,Manong
+400,Perak,Pantai Remis
+401,Perak,Bota
+402,Perak,Keranji
+403,Perak,Simpang Pulai
+404,Perak,Ayer Kuning
+405,Perak,Kampung Gajah
+406,Perak,Pasir Panjang
+407,Perak,Hutan Melintang
+408,Perak,Changkat Jong
+409,Perak,Slim River
+410,Perak,Slim
+411,Perak,Batu Kurau
+412,Perak,Selinsing
+413,Perak,Trong
+414,Perak,Aulong
+415,Perak,Pasir Pinji
+416,Perak,Buntong
+417,Perak,Tronoh
+418,Perak,Tualang Sekah
+419,Perak,Teja
+420,Perak,Pangkor
+421,Perak,Behrang
+422,Perlis,Titi Tinggi
+423,Perlis,Bintong
+424,Perlis,Pauh
+425,Perlis,Beseri
+426,Perlis,Sena
+427,Perlis,Tambun Tulang
+428,Perlis,Chuping
+429,Perlis,Indera Kayangan
+430,Perlis,Guar Sanji
+431,Perlis,Mata Ayer
+432,Perlis,Kuala Perlis
+433,Perlis,Simpang Empat
+434,Perlis,Santan
+435,Perlis,Kayang
+436,Perlis,Sanglang
+437,Pulau Pinang,Kepala Batas
+438,Pulau Pinang,Tasek Gelugor
+439,Pulau Pinang,Bagan
+440,Pulau Pinang,Permatang Pauh
+441,Pulau Pinang,Bukit Mertajam
+442,Pulau Pinang,Batu Kawan
+443,Pulau Pinang,Nibong Tebal
+444,Pulau Pinang,Bukit Bendera
+445,Pulau Pinang,Tanjong
+446,Pulau Pinang,Jelutong
+447,Pulau Pinang,Bukit Gelugor
+448,Pulau Pinang,Bayan Baru
+449,Pulau Pinang,Balik Pulau
+450,Pulau Pinang,Pulau Tikus
+451,Pulau Pinang,Pinang Tunggal
+452,Pulau Pinang,Telok Ayer Tawar
+453,Pulau Pinang,Bagan Dalam
+454,Pulau Pinang,Penanti
+455,Pulau Pinang,Padang Lalang
+456,Pulau Pinang,Bukit Tambun
+457,Pulau Pinang,Sungai Acheh
+458,Pulau Pinang,Kebun Bunga
+459,Pulau Pinang,Komtar
+460,Pulau Pinang,Batu Lancang
+461,Pulau Pinang,Paya Terubong
+462,Pulau Pinang,Batu Maung
+463,Pulau Pinang,Telok Bahang
+464,Pulau Pinang,Bertam
+465,Pulau Pinang,Sungai Dua
+466,Pulau Pinang,Bagan Jermal
+467,Pulau Pinang,Permatang Pasir
+468,Pulau Pinang,Machang Bubuk
+469,Pulau Pinang,Bukit Tengah
+470,Pulau Pinang,Sungai Bakap
+471,Pulau Pinang,Air Putih
+472,Pulau Pinang,Pengkalan Kota
+473,Pulau Pinang,Sungai Pinang
+474,Pulau Pinang,Air Itam
+475,Pulau Pinang,Pantai Jerejak
+476,Pulau Pinang,Pulau Betong
+477,Pulau Pinang,Penaga
+478,Pulau Pinang,Permatang Berangan
+479,Pulau Pinang,Sungai Puyu
+480,Pulau Pinang,Seberang Jaya
+481,Pulau Pinang,Berapit
+482,Pulau Pinang,Perai
+483,Pulau Pinang,Jawi
+484,Pulau Pinang,Tanjung Bunga
+485,Pulau Pinang,Padang Kota
+486,Pulau Pinang,Datok Keramat
+487,Pulau Pinang,Seri Delima
+488,Pulau Pinang,Batu Uban
+489,Pulau Pinang,Bayan Lepas
+490,Putrajaya,Presint 1
+491,Putrajaya,Presint 2
+492,Putrajaya,Presint 3
+493,Putrajaya,Presint 4
+494,Putrajaya,Presint 5
+495,Putrajaya,Presint 6
+496,Putrajaya,Presint 7
+497,Putrajaya,Presint 8
+498,Putrajaya,Presint 9
+499,Putrajaya,Presint 10
+500,Putrajaya,Presint 11
+501,Putrajaya,Presint 12
+502,Putrajaya,Presint 13
+503,Putrajaya,Presint 14
+504,Putrajaya,Presint 15
+505,Putrajaya,Presint 16
+506,Putrajaya,Presint 17
+507,Putrajaya,Presint 18
+508,Putrajaya,Presint 19
+509,Putrajaya,Presint 20
+510,Sabah,Kudat
+511,Sabah,Kota Marudu
+512,Sabah,Kota Belud
+513,Sabah,Tuaran
+514,Sabah,Sepanggar
+515,Sabah,Kota Kinabalu
+516,Sabah,Putatan
+517,Sabah,Penampang
+518,Sabah,Papar
+519,Sabah,Kimanis
+520,Sabah,Beaufort
+521,Sabah,Sipitang
+522,Sabah,Ranau
+523,Sabah,Keningau
+524,Sabah,Tenom
+525,Sabah,Pensiangan
+526,Sabah,Beluran
+527,Sabah,Libaran
+528,Sabah,Batu Sapi
+529,Sabah,Sandakan
+530,Sabah,Kinabatangan
+531,Sabah,Silam
+532,Sabah,Semporna
+533,Sabah,Tawau
+534,Sabah,Kalabakan
+535,Sabah,Banggi
+536,Sabah,Matunggong
+537,Sabah,Tempasuk
+538,Sabah,Tamparuli
+539,Sabah,Karambunai
+540,Sabah,Likas
+541,Sabah,Tanjong Aru
+542,Sabah,Kepayan
+543,Sabah,Kawang
+544,Sabah,Bongawan
+545,Sabah,Klias
+546,Sabah,Lumadan
+547,Sabah,Kundasang
+548,Sabah,Tambunan
+549,Sabah,Melalap
+550,Sabah,Sook
+551,Sabah,Sugut
+552,Sabah,Gum-Gum
+553,Sabah,Sekong
+554,Sabah,Elopura
+555,Sabah,Kuamut
+556,Sabah,Tungku
+557,Sabah,Sulabayan
+558,Sabah,Balung
+559,Sabah,Merotai
+560,Sabah,Tanjong Kapor
+561,Sabah,Tandek
+562,Sabah,Kadamaian
+563,Sabah,Sulaman
+564,Sabah,Inanam
+565,Sabah,Api-Api
+566,Sabah,Petagas
+567,Sabah,Moyog
+568,Sabah,Pantai Manis
+569,Sabah,Membakut
+570,Sabah,Kuala Penyu
+571,Sabah,Sindumin
+572,Sabah,Karanaan
+573,Sabah,Bingkor
+574,Sabah,Kemabong
+575,Sabah,Nabawan
+576,Sabah,Labuk
+577,Sabah,Sungai Sibuga
+578,Sabah,Karamunting
+579,Sabah,Tanjong Papat
+580,Sabah,Sukau
+581,Sabah,Lahad Datu
+582,Sabah,Senallang
+583,Sabah,Apas
+584,Sabah,Tanjong Batu
+585,Sabah,Pitas
+586,Sabah,Usukan
+587,Sabah,Kiulu
+588,Sabah,Luyang
+589,Sabah,Paginatan
+590,Sabah,Liawan
+591,Sabah,Kunak
+592,Sabah,Bugaya
+593,Sabah,Sri Tanjong
+594,Sabah,Sebatik
+595,Sarawak,Mas Gading
+596,Sarawak,Santubong
+597,Sarawak,Petra Jaya
+598,Sarawak,Bandar Kuching
+599,Sarawak,Stampin
+600,Sarawak,Kota Samarahan
+601,Sarawak,Mambong
+602,Sarawak,Serian
+603,Sarawak,Batang Sadong
+604,Sarawak,Batang Lupar
+605,Sarawak,Sri Aman
+606,Sarawak,Lubok Antu
+607,Sarawak,Betong
+608,Sarawak,Saratok
+609,Sarawak,Tanjung Manis
+610,Sarawak,Igan
+611,Sarawak,Sarikei
+612,Sarawak,Julau
+613,Sarawak,Kanowit
+614,Sarawak,Lanang
+615,Sarawak,Sibu
+616,Sarawak,Mukah
+617,Sarawak,Selangau
+618,Sarawak,Kapit
+619,Sarawak,Hulu Rajang
+620,Sarawak,Bintulu
+621,Sarawak,Sibuti
+622,Sarawak,Miri
+623,Sarawak,Baram
+624,Sarawak,Limbang
+625,Sarawak,Lawas
+626,Sarawak,Opar
+627,Sarawak,Pantai Damai
+628,Sarawak,Tupong
+629,Sarawak,Padungan
+630,Sarawak,Batu Lintang
+631,Sarawak,Asajaya
+632,Sarawak,Bengoh
+633,Sarawak,Tebedu
+634,Sarawak,Sadong Jaya
+635,Sarawak,Sebuyau
+636,Sarawak,Balai Ringin
+637,Sarawak,Engkilili
+638,Sarawak,Saribas
+639,Sarawak,Kalaka
+640,Sarawak,Belawai
+641,Sarawak,Daro
+642,Sarawak,Repok
+643,Sarawak,Pakan
+644,Sarawak,Ngemah
+645,Sarawak,Bukit Assek
+646,Sarawak,Bawang Assan
+647,Sarawak,Dalat
+648,Sarawak,Tamin
+649,Sarawak,Pelagus
+650,Sarawak,Baleh
+651,Sarawak,Kemena
+652,Sarawak,Bekenu
+653,Sarawak,Piasau
+654,Sarawak,Marudi
+655,Sarawak,Bukit Kota
+656,Sarawak,Bakelalan
+657,Sarawak,Tasik Biru
+658,Sarawak,Demak Laut
+659,Sarawak,Samariang
+660,Sarawak,Pending
+661,Sarawak,Kota Sentosa
+662,Sarawak,Muara Tuang
+663,Sarawak,Tarat
+664,Sarawak,Kedup
+665,Sarawak,Simunjan
+666,Sarawak,Lingga
+667,Sarawak,Bukit Begunan
+668,Sarawak,Batang Ai
+669,Sarawak,Layar
+670,Sarawak,Krian
+671,Sarawak,Semop
+672,Sarawak,Jamoreng
+673,Sarawak,Meradong
+674,Sarawak,Meluan
+675,Sarawak,Machan
+676,Sarawak,Dudong
+677,Sarawak,Pelawan
+678,Sarawak,Balingian
+679,Sarawak,Kakus
+680,Sarawak,Katibas
+681,Sarawak,Belaga
+682,Sarawak,Kidurong
+683,Sarawak,Lambir
+684,Sarawak,Pujut
+685,Sarawak,Telang Usan
+686,Sarawak,Batu Danau
+687,Sarawak,Bukit Sari
+688,Sarawak,Tanjung Datu
+689,Sarawak,Satok
+690,Sarawak,Batu Kawa
+691,Sarawak,Beting Maro
+692,Sarawak,Simanggang
+693,Sarawak,Bukit Saban
+694,Sarawak,Nangka
+695,Sarawak,Jepak
+696,Sarawak,Senadin
+697,Selangor,Sabak Bernam
+698,Selangor,Sungai Besar
+699,Selangor,Hulu Selangor
+700,Selangor,Tanjong Karang
+701,Selangor,Kuala Selangor
+702,Selangor,Selayang
+703,Selangor,Gombak
+704,Selangor,Ampang
+705,Selangor,Pandan
+706,Selangor,Hulu Langat
+707,Selangor,Serdang
+708,Selangor,Puchong
+709,Selangor,Kelana Jaya
+710,Selangor,Petaling Jaya Selatan
+711,Selangor,Petaling Jaya Utara
+712,Selangor,Subang
+713,Selangor,Shah Alam
+714,Selangor,Kapar
+715,Selangor,Klang
+716,Selangor,Kota Raja
+717,Selangor,Kuala Langat
+718,Selangor,Sepang
+719,Selangor,Sungai Air Tawar
+720,Selangor,Sungai Panjang
+721,Selangor,Hulu Bernam
+722,Selangor,Sungai Burong
+723,Selangor,Bukit Melawati
+724,Selangor,Kuang
+725,Selangor,Batu Caves
+726,Selangor,Bukit Antarabangsa
+727,Selangor,Dusun Tua
+728,Selangor,Bangi
+729,Selangor,Seri Serdang
+730,Selangor,Subang Jaya
+731,Selangor,Taman Medan
+732,Selangor,Kampung Tunku
+733,Selangor,Bukit Lanjan
+734,Selangor,Kota Anggerik
+735,Selangor,Meru
+736,Selangor,Pelabuhan Klang
+737,Selangor,Seri Andalas
+738,Selangor,Sijangkang
+739,Selangor,Tanjong Sepat
+740,Selangor,Sabak
+741,Selangor,Sekinchan
+742,Selangor,Kuala Kubu Baharu
+743,Selangor,Permatang
+744,Selangor,Ijok
+745,Selangor,Rawang
+746,Selangor,Gombak Setia
+747,Selangor,Lembah Jaya
+748,Selangor,Semenyih
+749,Selangor,Balakong
+750,Selangor,Kinrara
+751,Selangor,Seri Setia
+752,Selangor,Bukit Gasing
+753,Selangor,Damansara Utama
+754,Selangor,Paya Jaras
+755,Selangor,Batu Tiga
+756,Selangor,Sementa
+757,Selangor,Pandamaran
+758,Selangor,Sri Muda
+759,Selangor,Teluk Datuk
+760,Selangor,Dengkil
+761,Selangor,Batang Kali
+762,Selangor,Jeram
+763,Selangor,Taman Templer
+764,Selangor,Hulu Kelang
+765,Selangor,Chempaka
+766,Selangor,Kajang
+767,Selangor,Seri Kembangan
+768,Selangor,Kota Damansara
+769,Selangor,Sungai Pinang
+770,Selangor,Kota Alam Shah
+771,Selangor,Morib
+772,Selangor,Sungai Pelek
+773,Selangor,Teratai
+774,Selangor,Selat Klang
+775,Terengganu,Besut
+776,Terengganu,Setiu
+777,Terengganu,Kuala Nerus
+778,Terengganu,Kuala Terengganu
+779,Terengganu,Marang
+780,Terengganu,Hulu Terengganu
+781,Terengganu,Dungun
+782,Terengganu,Kemaman
+783,Terengganu,Kota Putera
+784,Terengganu,Permaisuri
+785,Terengganu,Teluk Pasu
+786,Terengganu,Bandar
+787,Terengganu,Bukit Payung
+788,Terengganu,Manir
+789,Terengganu,Rantau Abang
+790,Terengganu,Kijal
+791,Terengganu,Kuala Besut
+792,Terengganu,Jabi
+793,Terengganu,Tepuh
+794,Terengganu,Wakaf Mempelam
+795,Terengganu,Alur Limbat
+796,Terengganu,Telemung
+797,Terengganu,Bukit Besi
+798,Terengganu,Kemasik
+799,Terengganu,Jertih
+800,Terengganu,Langkap
+801,Terengganu,Seberang Takir
+802,Terengganu,Ladang
+803,Terengganu,Ru Rendang
+804,Terengganu,Kuala Berang
+805,Terengganu,Sura
+806,Terengganu,Chukai
+807,Terengganu,Hulu Besut
+808,Terengganu,Batu Rakit
+809,Terengganu,Bukit Tunggal
+810,Terengganu,Batu Buruk
+811,Terengganu,Pengkalan Berangan
+812,Terengganu,Ajil
+813,Terengganu,Paka
+814,Terengganu,Air Putih
